@@ -7,7 +7,7 @@ Università di Trento - Soluzione compito di Linguaggi di Programmazione, Modulo
 
 1. Si costruisca un’applicazione avente il seguente aspetto:
 <div style="text-align:center">
-    <img src="img/torrehanoi.png" alt="torrehanoi.png" style="torrehanoi.png" />
+    <img src="https://github.com/Pater999/UNITN-prog2-Torre_Hanoi/blob/master/img/TorreHanoi.PNG" alt="torrehanoi.png" style="torrehanoi.png" />
 </div>
 
     Vi sono tre PALI verticali (chiamati p1, p2 e p3) nei quali possono essere infilati quattro DISCHI aventi diverse dimensioni. Inizialmente i dischi sono posti uno sopra l’altro nel primo palo: ogni disco giace su un disco più grande.
