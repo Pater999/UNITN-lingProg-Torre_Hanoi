@@ -6,14 +6,12 @@ Università di Trento - Soluzione compito di Linguaggi di Programmazione, Modulo
 ## Testo:
 
 1. Si costruisca un’applicazione avente il seguente aspetto:
-<div style="text-align:center">
-    <img src="https://github.com/Pater999/UNITN-prog2-Torre_Hanoi/blob/master/img/TorreHanoi.PNG" alt="torrehanoi.png" style="torrehanoi.png" />
-</div>
 
-    Vi sono tre PALI verticali (chiamati p1, p2 e p3) nei quali possono essere infilati quattro DISCHI aventi diverse dimensioni. Inizialmente i dischi sono posti uno sopra l’altro nel primo palo: ogni disco giace su un disco più grande.
-    Vi sono quattro bottoni (Clear, Move, Reset, Close) e due campi di testo,
-    inizialmente vuoti, a fianco di due etichette “from” e “to”. Il botton Close è
-    inizialmente disabilitato.
+<p align="center">
+    <img src="https://github.com/Pater999/UNITN-prog2-Torre_Hanoi/blob/master/img/TorreHanoi.PNG" alt="torrehanoi.png" style="torrehanoi.png" />
+</p>
+
+Vi sono tre PALI verticali (chiamati p1, p2 e p3) nei quali possono essere infilati quattro DISCHI aventi diverse dimensioni. Inizialmente i dischi sono posti uno sopra l’altro nel primo palo: ogni disco giace su un disco più grande. Vi sono quattro bottoni (Clear, Move, Reset, Close) e due campi di testo, inizialmente vuoti, a fianco di due etichette “from” e “to”. Il botton Close è inizialmente disabilitato.
 
 2. Si documenti il codice prodotto con javadoc.
 
